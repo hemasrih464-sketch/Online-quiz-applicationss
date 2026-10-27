@@ -1,0 +1,5 @@
+<h3>Event Registration</h3>
+<input id="n" placeholder="Student Name">
+<input id="e" placeholder="Email">
+<button onclick="register()">Register</button>
+<p id="msg"></p>
